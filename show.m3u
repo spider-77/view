@@ -1,158 +1,103 @@
 #EXTM3U
-# Última actualización automática: 2026-05-25 08:30:54
+# Última actualización automática: 2026-05-25 22:33:52
 
 #EXTINF:-1,TOONCAST 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/32_.m3u8?token=IJCQvzciJCkdZTfgiDB-2g&expires=1779762641
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/32_.m3u8?token=3kV377L6gpeH0Uu4796xgw&expires=1779813196
 
 #EXTINF:-1,DISCOVERY CHANNEL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/37_.m3u8?token=iDxp6Qr_DWT-pdEQlLsJ8w&expires=1779762641
-
-#EXTINF:-1,INVESTIGATION DISCOVERY 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/41_.m3u8?token=MdrviKMkWcdmAIDha3hNmg&expires=1779762641
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/37_.m3u8?token=zkEnI-fa4DVreBJBcevYNQ&expires=1779813196
 
 #EXTINF:-1,HOME & HEALT 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/42_.m3u8?token=45682u3ar7GzkT3ez0dKFw&expires=1779762641
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/42_.m3u8?token=ZaOwdeiRZK1LMtx3jKJPjg&expires=1779813196
 
-#EXTINF:-1,E&E 
+#EXTINF:-1,A&E 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/43_.m3u8?token=g4oIfjFB3JvMTgBYJ5zCrw&expires=1779762641
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/43_.m3u8?token=ZHsPpycYbqPZn1Xkf2OXYw&expires=1779813196
 
 #EXTINF:-1,HISTORY 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/44_.m3u8?token=Qrvjq8kPS2uFBcXsWVUoLw&expires=1779762644
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/44_.m3u8?token=GJ3Pu1jo_IeOjhPhrQ97PQ&expires=1779813199
 
-#EXTINF:-1,HISTORY 2 
+#EXTINF:-1,HISTORY-2 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/45_.m3u8?token=9lxU4ju-wdQ53t4nIAS6hw&expires=1779762645
-
-#EXTINF:-1,ANIMAL PLANET 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/46_.m3u8?token=c2VTZ3EUfMyw4cZP0130ZQ&expires=1779762645
-
-#EXTINF:-1,NAT GEO 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/47_.m3u8?token=Mz_9v3ingRy09D_cSVUVjQ&expires=1779762645
-
-#EXTINF:-1,UNIVERSAL CHANNEL 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/49_.m3u8?token=Ndr9bStNBsCiUwkdsPCupQ&expires=1779762645
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/45_.m3u8?token=64fMdkFirPaePzdehwGUZQ&expires=1779813199
 
 #EXTINF:-1,UNIVERSAL PREMIERE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/50_.m3u8?token=bcRRyjICzcUjXrGMuoEMVw&expires=1779762646
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/50_.m3u8?token=Pn2-fqT6NpMyo8uP4DpkWA&expires=1779813201
 
 #EXTINF:-1,TNT 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/52_.m3u8?token=VCSf3edNGFDQogNJhVonzA&expires=1779762647
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/52_.m3u8?token=BHbT--i7CmOxPRmlTW8mNQ&expires=1779813203
 
 #EXTINF:-1,TNT SERIES 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/53_.m3u8?token=2O22S6yvIsi28RPL4mbRLA&expires=1779762647
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/53_.m3u8?token=ErwGaQbRam_oPbUgojyM3w&expires=1779813205
 
 #EXTINF:-1,STAR CHANNNEL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/54_.m3u8?token=ny9sCsmLZdQ029pn_CAuuA&expires=1779762647
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/54_.m3u8?token=FKlYHdoCBb2t7bEqxn-YuA&expires=1779813206
 
 #EXTINF:-1,CINEMAX 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/55_.m3u8?token=ZpmftVe0FnPcHWtFG_BwPA&expires=1779762647
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/55_.m3u8?token=G0F2epMw96RyNI0xwn5MJw&expires=1779813207
 
 #EXTINF:-1,SPACE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/56_.m3u8?token=8FmtXFN0C0whfOn1TPLCsQ&expires=1779762649
-
-#EXTINF:-1,USA SIFY 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/57_.m3u8?token=YyWm6Yo_wetR4VfQ-4sPsQ&expires=1779762649
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/56_.m3u8?token=Jsd8dLdSzkx-7PrFGNpv4Q&expires=1779813207
 
 #EXTINF:-1,WARNER 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/58_.m3u8?token=9l9mHOY1PU9FNZ_JJX_hoQ&expires=1779762649
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/58_.m3u8?token=G3726OS0tcWkB30Tbj_rlw&expires=1779813209
 
 #EXTINF:-1,CINECANAL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/59_.m3u8?token=-_AvTVlPjwLJDa_GbFv_Yg&expires=1779762650
-
-#EXTINF:-1,FX 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/60_.m3u8?token=uxo3sVULJXjwZjR5qAcY6Q&expires=1779762649
-
-#EXTINF:-1,AXN 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/61_.m3u8?token=ia8g3FwXIIjDdjtfIz_a2w&expires=1779762650
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/59_.m3u8?token=57fpmUgpG8Js-br5_a2QiA&expires=1779813212
 
 #EXTINF:-1,AMC 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/63_.m3u8?token=_4ixn5f_j-qqHFL5KMM_1g&expires=1779762651
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/63_.m3u8?token=bCSNsKE8qFFGqhgNNNrIpA&expires=1779813212
 
 #EXTINF:-1,STUDIO UNIVERSAL 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/64_.m3u8?token=HC34tVnTPwmjatHPVMImLA&expires=1779762651
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/64_.m3u8?token=rzsQotlaKe_c0Hix4_TF-g&expires=1779813213
 
 #EXTINF:-1,MP 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/66_.m3u8?token=MPuzPpLFUATBflD_1EjRPw&expires=1779762652
-
-#EXTINF:-1,GOLDEN 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/67_.m3u8?token=Tz2xt4Tmsggoje0eMFCgHw&expires=1779762652
-
-#EXTINF:-1,GOLDEN PLUS 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/68_.m3u8?token=qUCuQ2YbOvIGuckQbXMyvw&expires=1779762652
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/66_.m3u8?token=mhO-W3T46z4e41MYFRthiQ&expires=1779813214
 
 #EXTINF:-1,GOLDEN EDGE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/69_.m3u8?token=CcPE_QvAm9m_ita_fNLiTQ&expires=1779762652
-
-#EXTINF:-1,GOLDEN PREMIERE 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/70_.m3u8?token=x0S-sllyNZY1B1RjdbQHPw&expires=1779762653
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/69_.m3u8?token=-FWaAiUFzlwt5ZqY3MC0PQ&expires=1779813217
 
 #EXTINF:-1,SONY 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/72_.m3u8?token=UW8xryOH6xquYzjxqr99Og&expires=1779762653
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/72_.m3u8?token=Tnr-xgWabWLX1-EBFM4EUg&expires=1779813220
 
 #EXTINF:-1,FM HOT MOVIES 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/34_.m3u8?token=yisu3Uda7paiJGxCL_BHGw&expires=1779762653
-
-#EXTINF:-1,FM HOT KIDS 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/78_.m3u8?token=wA8pYXT1mg3hTGUIeeGT9w&expires=1779762653
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuNw==/34_.m3u8?token=-ltewz_I91sY84qa57zTdw&expires=1779813222
 
