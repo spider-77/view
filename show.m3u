@@ -1,173 +1,668 @@
 #EXTM3U
-# Última actualización automática: 2026-06-01 08:28:19
+# Última actualización automática: 2026-06-01 22:19:09
 
-#EXTINF:-1,CARTOON NETWORK 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODYuMTg=/31_.m3u8?token=hb7x9Guo1YhV9h73LuA0Qw&expires=1780367288
+#EXTINF:-1,EN VIVO
 
-#EXTINF:-1,TOONCAST 
+Azteca Deportes (Playwright Sniffer)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODYuMTg=/32_.m3u8?token=cAISBsAgX6h1gQn-kQqgjQ&expires=1780367288
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/34_.m3u8?token=bMGMGBUeCBzD9QGFd_no5w&expires=1780406324
 
-#EXTINF:-1,DISCOVERY CHANNEL 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODYuMTg=/37_.m3u8?token=bkyr_wa-nkFIcwGaOy556A&expires=1780367288
+#EXTINF:-1,EN VIVO
 
-#EXTINF:-1,INVESTIGATION DISCOVERY 
+Liga 1 (Playwright Sniffer)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODYuMTg=/41_.m3u8?token=Kk4xQZqut7dTgFWofBruXw&expires=1780367288
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/39_.m3u8?token=9EVRaWN3Fufs-wFdtFTkng&expires=1780406324
 
-#EXTINF:-1,HOME & HEALT 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODYuMTg=/42_.m3u8?token=yELM1IktoSoL-95raOsU2Q&expires=1780367288
+#EXTINF:-1,EN VIVO
 
-#EXTINF:-1,A&E 
+Liga 1 Max (Playwright Sniffer)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODYuMTg=/43_.m3u8?token=xzDw7wuZ83yqX3hoFCLFaw&expires=1780367288
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/22_.m3u8?token=4lWaMMltbvznLL_k8Lksqw&expires=1780406324
 
-#EXTINF:-1,HISTORY 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODYuMTg=/44_.m3u8?token=1LYB0rhMXZ1HLJImqQMPJQ&expires=1780367291
+#EXTINF:-1,EN VIVO
 
-#EXTINF:-1,HISTORY-2 
+TUDN (Playwright Sniffer)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODYuMTg=/45_.m3u8?token=iH_fmse_oq-v3mafdhig1A&expires=1780367291
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/1_.m3u8?token=gqgPXdOZcz8oTFAb3JPZbg&expires=1780406324
 
-#EXTINF:-1,ANIMAL PLANET 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODYuMTg=/46_.m3u8?token=mR8mEbzw843LTnD-NQYgBQ&expires=1780367291
+#EXTINF:-1,EN VIVO
 
-#EXTINF:-1,NAT GEO 
+VIX TUDN (Playwright Sniffer)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODYuMTg=/47_.m3u8?token=fc0m2mV4SIraI4VqjOZ_Ow&expires=1780367291
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/1_.m3u8?token=gqgPXdOZcz8oTFAb3JPZbg&expires=1780406324
 
-#EXTINF:-1,UNIVERSAL CHANNEL 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODYuMTg=/49_.m3u8?token=tZGSHwIOYr1HMfmD9jKI4g&expires=1780367291
+#EXTINF:-1,EN VIVO
 
-#EXTINF:-1,UNIVERSAL CINEMA 
+Sky Sports La Liga (Playwright Sniffer)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODYuMTg=/51_.m3u8?token=CJ1Gc7IXmJ2aY_UHUXMcjw&expires=1780367291
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/37_.m3u8?token=kmcWagcfD18L2LCA6m4XDw&expires=1780406324
 
-#EXTINF:-1,TNT 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODYuMTg=/52_.m3u8?token=STrdVJ5DWKcCmuRyniCTjA&expires=1780367292
+#EXTINF:-1,EN VIVO
 
-#EXTINF:-1,TNT SERIES 
+TNT Sports (Playwright Sniffer)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODYuMTg=/53_.m3u8?token=v8CG0xmgEqqfMMdczc1-NQ&expires=1780367293
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/4_.m3u8?token=bgNNAipCCK5PNh09PKi2QA&expires=1780406325
 
-#EXTINF:-1,STAR CHANNNEL 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODYuMTg=/54_.m3u8?token=vvtMKVEBzeBKWWjGlcoMDA&expires=1780367293
+#EXTINF:-1,EN VIVO
 
-#EXTINF:-1,CINEMAX 
+TNT Sports Chile (Playwright Sniffer)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODYuMTg=/55_.m3u8?token=uYvRxHAKXPDv7f3uKANNsQ&expires=1780367293
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/35_.m3u8?token=bCcyXDGY_Z0Fl4Cx0yi_NA&expires=1780406327
 
-#EXTINF:-1,SPACE 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODYuMTg=/56_.m3u8?token=6KAl8-rHGH06Mn5dnqIk1Q&expires=1780367293
+#EXTINF:-1,EN VIVO
 
-#EXTINF:-1,USA SIFY 
+Fox Sports Premium (Playwright Sniffer)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODYuMTg=/57_.m3u8?token=5pYIFxNnxR4coHeyJLhAMA&expires=1780367293
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/12_.m3u8?token=2uICV2lGkrxfJuV4bFAvhQ&expires=1780406327
 
-#EXTINF:-1,WARNER 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODYuMTg=/58_.m3u8?token=G_aESybinc7m5lVToobeTQ&expires=1780367294
+#EXTINF:-1,EN VIVO
 
-#EXTINF:-1,CINECANAL 
+TyC Sports (Playwright Sniffer)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODYuMTg=/59_.m3u8?token=19x_9VmbwiCnXWEmWBuj3g&expires=1780367295
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/6_.m3u8?token=T5HCTxiH68_UUIKb5WECGg&expires=1780406327
 
-#EXTINF:-1,FX 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODYuMTg=/60_.m3u8?token=1Bbm5l_D1fcP9JcQxc2qzg&expires=1780367295
+#EXTINF:-1,EN VIVO
 
-#EXTINF:-1,AXN 
+Movistar La Liga (Playwright Sniffer)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODYuMTg=/61_.m3u8?token=xqjcC6aptM6pLpCvjXoTVA&expires=1780367295
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/32_.m3u8?token=LH-fXeGXpY70QF3WdnSaYg&expires=1780406327
 
-#EXTINF:-1,AMC 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODYuMTg=/63_.m3u8?token=jLVo7GfBHqRliJJgd3vfFg&expires=1780367295
+#EXTINF:-1,EN VIVO
 
-#EXTINF:-1,STUDIO UNIVERSAL 
+Movistar Liga De Campeones (Playwright Sniffer)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODYuMTg=/64_.m3u8?token=6f9fqOaeKx89Ln9nOLHrmg&expires=1780367295
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/29_.m3u8?token=Vs7yZDuINdHCrkbFIkrKKg&expires=1780406327
 
-#EXTINF:-1,STUDIO PANICO HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODYuMTg=/65_.m3u8?token=6Z5jgBypKz7ewaaIc0EZbg&expires=1780367295
+#EXTINF:-1,EN VIVO
 
-#EXTINF:-1,MP 
+Dazn F1 (Playwright Sniffer)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODYuMTg=/66_.m3u8?token=DY--BvPi1dVu95o6PuU6tQ&expires=1780367296
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/27_.m3u8?token=vgZIZJjot90sxeQOL_raZA&expires=1780406327
 
-#EXTINF:-1,GOLDEN 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODYuMTg=/67_.m3u8?token=X4q17tmt-QF9GkAUqtzLvA&expires=1780367296
+#EXTINF:-1,EN VIVO
 
-#EXTINF:-1,GOLDEN PLUS 
+Dazn La Liga (Playwright Sniffer)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODYuMTg=/68_.m3u8?token=6ZTYEODLBhOP50baFB2E_Q&expires=1780367296
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/28_.m3u8?token=SCqLFmMf3ByPJIQ7-N121Q&expires=1780406327
 
-#EXTINF:-1,GOLDEN EDGE 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODYuMTg=/69_.m3u8?token=PED7F88NMoAUV7CdP5z3TA&expires=1780367297
+#EXTINF:-1,EN VIVO
 
-#EXTINF:-1,GOLDEN PREMIERE 
+Bein Sports Xtra (Playwright Sniffer)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODYuMTg=/70_.m3u8?token=y3TSWIVgF5v8Mqu7IMMYvA&expires=1780367297
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/31_.m3u8?token=aPZP3EKUma8ZL7e_Oh8Ujg&expires=1780406328
 
-#EXTINF:-1,SONY 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODYuMTg=/72_.m3u8?token=7BX3-Lqqmos_rawPv-ErRg&expires=1780367297
+#EXTINF:-1,EN VIVO
 
-#EXTINF:-1,FM HOT MOVIES 
+Directv Sports (Playwright Sniffer)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODYuMTg=/34_.m3u8?token=-cNOZdZxc1jPBLmy_ZDztw&expires=1780367297
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/3_.m3u8?token=jBODQLRpCmXlRjEVdPZFMg&expires=1780406328
 
-#EXTINF:-1,FM HOT KIDS 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODYuMTg=/78_.m3u8?token=jAAJmJejFREfjPdqYEHe2Q&expires=1780367298
+#EXTINF:-1,EN VIVO
 
-#EXTINF:-1,EXTREMA TV 
+Directv Sports 2 (Playwright Sniffer)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODYuMTg=/73_.m3u8?token=wx_TxtsFpMLVc_ChJQaxHw&expires=1780367298
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/7_.m3u8?token=48X6ekrkxKb5nh6G6BbkWg&expires=1780406328
+
+#EXTINF:-1,EN VIVO
+
+Directv Sports Plus (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/11_.m3u8?token=a4u9XvSY48uBiGNkU_cvQw&expires=1780406329
+
+#EXTINF:-1,EN VIVO
+
+ESPN Premium (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/5_.m3u8?token=ovZlHiJFbrTOmUhYqxctxw&expires=1780406329
+
+#EXTINF:-1,EN VIVO
+
+ESPN (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/13_.m3u8?token=dcOe9kuRA85gOHxjXYUM9Q&expires=1780406329
+
+#EXTINF:-1,EN VIVO
+
+ESPN 2 (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/14_.m3u8?token=ZyLQUWYZvw0voHgAQKHAUQ&expires=1780406330
+
+#EXTINF:-1,EN VIVO
+
+ESPN 3 (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/15_.m3u8?token=ljHXkkNguqdw5-Tll-VmJA&expires=1780406330
+
+#EXTINF:-1,EN VIVO
+
+ESPN 4 (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/23_.m3u8?token=jYyyRfaamqPhuWkeYYsUBw&expires=1780406330
+
+#EXTINF:-1,EN VIVO
+
+ESPN 5 (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/24_.m3u8?token=2rzqbmPHAgikvhXWVHRi4w&expires=1780406330
+
+#EXTINF:-1,EN VIVO
+
+ESPN 6 (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/25_.m3u8?token=DejO6rF8LTBwh-NB6Y1_VA&expires=1780406330
+
+#EXTINF:-1,EN VIVO
+
+ESPN 7 (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/26_.m3u8?token=Nv1yVNdygFYMjvRDFq8Zmg&expires=1780406331
+
+#EXTINF:-1,EN VIVO
+
+ESPN Mexico (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/19_.m3u8?token=tZxZL2NBAyMQRN-SAiJC6Q&expires=1780406331
+
+#EXTINF:-1,EN VIVO
+
+ESPN 2 Mexico (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/20_.m3u8?token=E2uvlsCFDkgQbm2MDSKriw&expires=1780406331
+
+#EXTINF:-1,EN VIVO
+
+ESPN 3 Mexico (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/21_.m3u8?token=GAtGNwpUmwN9rsMmZm_CsA&expires=1780406332
+
+#EXTINF:-1,EN VIVO
+
+ESPN 4 Mexico (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/33_.m3u8?token=RQpu4eGqT2qH0f5ygHsLDw&expires=1780406332
+
+#EXTINF:-1,EN VIVO
+
+ESPN 5 Mexico (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/38_.m3u8?token=N_FkinDjAHtJSflxMtBPxw&expires=1780406332
+
+#EXTINF:-1,EN VIVO
+
+Fox Sports (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/8_.m3u8?token=O4riZAOloslzQNkQDPUDpA&expires=1780406332
+
+#EXTINF:-1,EN VIVO
+
+Fox Sports 2 (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/9_.m3u8?token=--VUDmTCLptlS8eIiajvsw&expires=1780406332
+
+#EXTINF:-1,EN VIVO
+
+Fox Sports 3 (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/10_.m3u8?token=tP1nHcHvIXVgfof7gR6MUw&expires=1780406333
+
+#EXTINF:-1,EN VIVO
+
+Fox Sports Mexico (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/16_.m3u8?token=QMf3GyfDUYGoyzFAnqMjqw&expires=1780406333
+
+#EXTINF:-1,EN VIVO
+
+Fox Sports 2 Mexico (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/17_.m3u8?token=_cTmsbm6l3MZnXyfJK-c_w&expires=1780406333
+
+#EXTINF:-1,EN VIVO
+
+Fox Sports 3 Mexico (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/18_.m3u8?token=YXtl0Bo-ADT0ubjnCKapcw&expires=1780406334
+
+#EXTINF:-1,EN VIVO
+
+Win Sports Plus (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4xODAuMzc=/30_.m3u8?token=DwmsTI-TzBSWjaylmtqiJQ&expires=1780406334
+
+#EXTINF:-1,EN VIVO
+
+Telefe (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/3_.m3u8?token=FcJbj_I0eI6Tpc9nzMk4cg&expires=1780417134
+
+#EXTINF:-1,EN VIVO
+
+El Trece (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/4_.m3u8?token=1Ebg0QIJ1u2vT73yM6X19Q&expires=1780417134
+
+#EXTINF:-1,EN VIVO
+
+Telemundo 51 (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/6_.m3u8?token=SOc1TwAM-D__hf0Qk-LjTA&expires=1780417134
+
+#EXTINF:-1,EN VIVO
+
+Telemundo Puerto Rico (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/7_.m3u8?token=4osB7fr9BI-7QSMGiiphNA&expires=1780417135
+
+#EXTINF:-1,EN VIVO
+
+Telemundo Internacional (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/8_.m3u8?token=6Pvwy9QexT2ATEh8yBab5g&expires=1780417135
+
+#EXTINF:-1,EN VIVO
+
+Univision (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/9_.m3u8?token=LTcgIZRwsWZEjNb1i37fqw&expires=1780417135
+
+#EXTINF:-1,EN VIVO
+
+Pasiones (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/10_.m3u8?token=JkZWfIAYbenWgq3_tOqZow&expires=1780417135
+
+#EXTINF:-1,EN VIVO
+
+Tlnovelas (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/12_.m3u8?token=-v1aTfIHjrC4kX_ZbH_8Fw&expires=1780417136
+
+#EXTINF:-1,EN VIVO
+
+Las Estrellas (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/13_.m3u8?token=cXcCFXIdApgFD3MioEX6dQ&expires=1780417136
+
+#EXTINF:-1,EN VIVO
+
+Antena 3 (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/14_.m3u8?token=yv170XJ3EIkPhZ9iaJboWw&expires=1780417136
+
+#EXTINF:-1,EN VIVO
+
+DW Español (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/15_.m3u8?token=AuEBe9CY-0Gb0joxplHw4A&expires=1780417136
+
+#EXTINF:-1,EN VIVO
+
+Caracol (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/17_.m3u8?token=ZxGF-otS8q44iwSkmNU8Uw&expires=1780417137
+
+#EXTINF:-1,EN VIVO
+
+RCN (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/18_.m3u8?token=Bk92-IsP3NS7z8kIphI82w&expires=1780417137
+
+#EXTINF:-1,EN VIVO
+
+Latina (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/19_.m3u8?token=PpL1lAt0A30o8fDyIMaHTA&expires=1780417137
+
+#EXTINF:-1,EN VIVO
+
+America TV (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/20_.m3u8?token=LulXPbkJfi9SGxH7xoFADw&expires=1780417137
+
+#EXTINF:-1,EN VIVO
+
+ATV (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/23_.m3u8?token=sdUPCL6yj5hFdCRdYQIjHA&expires=1780417137
+
+#EXTINF:-1,EN VIVO
+
+Unicable (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/24_.m3u8?token=_t3KZBTaXTHaZwb9qERnrA&expires=1780417138
+
+#EXTINF:-1,EN VIVO
+
+Imagen TV (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/25_.m3u8?token=Nu4oix1hdgCmI04aM0DQfw&expires=1780417138
+
+#EXTINF:-1,EN VIVO
+
+Azteca 7 (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/1_.m3u8?token=O9XJzQuG1gpLqovC_ZC39A&expires=1780417138
+
+#EXTINF:-1,EN VIVO
+
+Azteca Uno (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/26_.m3u8?token=kSUumDGOpno6rPfmVT8rAw&expires=1780417138
+
+#EXTINF:-1,EN VIVO
+
+Canal 5 (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/2_.m3u8?token=BSCblN0hmPf6ui1UXwEw_g&expires=1780417139
+
+#EXTINF:-1,EN VIVO
+
+Disney Channel (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/28_.m3u8?token=kmmLD0QJ_oZoATfaCQwRXA&expires=1780417140
+
+#EXTINF:-1,EN VIVO
+
+Cartoon Network (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/31_.m3u8?token=GdlbetnZ7_dW6JJpWo7Z3A&expires=1780417139
+
+#EXTINF:-1,EN VIVO
+
+Tooncast (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/32_.m3u8?token=AAy6UazTk05RiCbjY8FxfA&expires=1780417140
+
+#EXTINF:-1,EN VIVO
+
+Discovery Channel (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/37_.m3u8?token=3Fe8Nf_ZfllEZAEtwWUZvg&expires=1780417140
+
+#EXTINF:-1,EN VIVO
+
+ID Investigation (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/41_.m3u8?token=MbE16jYbD7ly4v_z7g6iRg&expires=1780417140
+
+#EXTINF:-1,EN VIVO
+
+Discovery H&H (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/42_.m3u8?token=ABHNgWRQqu1GA4szyqX3mA&expires=1780417140
+
+#EXTINF:-1,EN VIVO
+
+Discovery A&E (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/43_.m3u8?token=pBzXiJCe3fb1sDYLpwsxWg&expires=1780417140
+
+#EXTINF:-1,EN VIVO
+
+History (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/44_.m3u8?token=oJIU0pq1mm5szs0PtUxLoA&expires=1780417141
+
+#EXTINF:-1,EN VIVO
+
+History 2 (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/45_.m3u8?token=qmU4gFqNyJMOwBEofFnZTg&expires=1780417141
+
+#EXTINF:-1,EN VIVO
+
+Animal Planet (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/46_.m3u8?token=8QLZKfzV2nfSXpC6dhE0nQ&expires=1780417141
+
+#EXTINF:-1,EN VIVO
+
+Nat Geo (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/47_.m3u8?token=dptLcRzt_fRu28oz_DHMDg&expires=1780417142
+
+#EXTINF:-1,EN VIVO
+
+Universal Channel (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/49_.m3u8?token=FxJWrrfQjEa2-G4HP7YApg&expires=1780417142
+
+#EXTINF:-1,EN VIVO
+
+Universal Premiere (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/50_.m3u8?token=zkKHmmO01pY8MaLfzWX8SQ&expires=1780417142
+
+#EXTINF:-1,EN VIVO
+
+Universal Cinema (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/51_.m3u8?token=DLEvtB4VVCTr7Q-jsvY8zw&expires=1780417142
+
+#EXTINF:-1,EN VIVO
+
+TNT (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/52_.m3u8?token=bq5Qvh64a3jU6HMuCBHy5Q&expires=1780417143
+
+#EXTINF:-1,EN VIVO
+
+TNT Series (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/53_.m3u8?token=O1l0ndjDa2o3M5isLR8NPw&expires=1780417143
+
+#EXTINF:-1,EN VIVO
+
+Star Channel (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/54_.m3u8?token=o1fgYN7DrYL7kBeAYH3AVQ&expires=1780417144
+
+#EXTINF:-1,EN VIVO
+
+Cinemax (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/55_.m3u8?token=KAI8H2-J0LUnVA8thWm6yg&expires=1780417144
+
+#EXTINF:-1,EN VIVO
+
+Space (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/56_.m3u8?token=9ijBRTPHuZc-5rl4g75YAA&expires=1780417144
+
+#EXTINF:-1,EN VIVO
+
+Warner Channel (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/58_.m3u8?token=W2kWvK019Qp5rX7aaP_UuQ&expires=1780417144
+
+#EXTINF:-1,EN VIVO
+
+Cinecanal (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/59_.m3u8?token=2L8okL3tNeIPrGDZd-c-Cg&expires=1780417144
+
+#EXTINF:-1,EN VIVO
+
+FX (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/60_.m3u8?token=jU7ZwAyk9V_Fqi0utP2JLg&expires=1780417145
+
+#EXTINF:-1,EN VIVO
+
+AXN (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/61_.m3u8?token=Zu2qJuSmxJ2ndSO1OnO8JA&expires=1780417145
+
+#EXTINF:-1,EN VIVO
+
+AMC (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/63_.m3u8?token=njNXJFHzBahmrdSYqJE7HA&expires=1780417145
+
+#EXTINF:-1,EN VIVO
+
+Studio Universal (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/64_.m3u8?token=4i0JfRS5QKyylVouKQBlwA&expires=1780417145
+
+#EXTINF:-1,EN VIVO
+
+Panico HD (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/65_.m3u8?token=CuBgfIIZLRN8eqk3rowgeQ&expires=1780417146
+
+#EXTINF:-1,EN VIVO
+
+Multipremier (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/66_.m3u8?token=77_uWCRBG3tw_KopvOt7HQ&expires=1780417146
+
+#EXTINF:-1,EN VIVO
+
+Golden (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/67_.m3u8?token=LI_0JghR3DwhRcV_8xMU8Q&expires=1780417146
+
+#EXTINF:-1,EN VIVO
+
+Golden Plus (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/68_.m3u8?token=Yn9Gq-s8q-XmTA0j6G3oEg&expires=1780417147
+
+#EXTINF:-1,EN VIVO
+
+Golden Edge (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/69_.m3u8?token=7s_qLHmWowTIortCaYqTTg&expires=1780417147
+
+#EXTINF:-1,EN VIVO
+
+Golden Premier (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/70_.m3u8?token=jPgyRrnWCWje8POHx3D3ew&expires=1780417147
+
+#EXTINF:-1,EN VIVO
+
+Canal Sony (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/72_.m3u8?token=-R5wGyXvg3cWlkCnfGmJug&expires=1780417147
+
+#EXTINF:-1,EN VIVO
+
+FM Hot Movies (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/34_.m3u8?token=dwyLcOUODAbtf-OJXAwo6g&expires=1780417148
+
+#EXTINF:-1,EN VIVO
+
+FM Hot Kids (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/78_.m3u8?token=6oGx1nxkuJqUc5IQU4dEGQ&expires=1780417148
+
+#EXTINF:-1,EN VIVO
+
+Extrema TV (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/73_.m3u8?token=z1iZ4NLxsLsg4ykL1ubB8Q&expires=1780417148
+
+#EXTINF:-1,EN VIVO
+
+Distrito Comedia (Playwright Sniffer)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/75_.m3u8?token=RiX2miQ6ubLaSQqRP1DZxQ&expires=1780417148
 
