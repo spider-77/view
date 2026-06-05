@@ -1,8 +1,8 @@
 #EXTM3U
-# Última actualización automática: 2026-06-04 21:51:11
+# Última actualización automática: 2026-06-04 22:31:11
 
-#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/antena3.webp",Antena 3
+#EXTINF:-1,MP 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/14_.m3u8?token=zi10wvkBiJEmxFmFHCTKHA&expires=1780674576
+#EXTVLCOPT:http-referrer=https://www.telegratishd.com/
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4xODAuMzc=/66_.m3u8?token=2J1QWZnPAgN_Ir_aNADVuQ&expires=1780677054
 
