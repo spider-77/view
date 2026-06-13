@@ -1,468 +1,433 @@
 #EXTM3U
-# Última actualización automática: 2026-06-11 22:50:16
+# Última actualización automática: 2026-06-13 08:17:01
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/aztecadeportes.webp",Azteca Deportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/34_.m3u8?token=g-7tzRTILkwgwFdl_IPMJA&expires=1781272059
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/34_.m3u8?token=O0s2Eme4GiSn23d720fqLw&expires=1781392421
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/liga1.webp",Liga 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/39_.m3u8?token=zNkoipUQrP3Yzp7-suV7Hw&expires=1781272059
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/39_.m3u8?token=43NPRfz0Xf2SgCHhmlYIxg&expires=1781392424
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/liga1max.webp",Liga 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/22_.m3u8?token=qJcDR2EpfaxbJIjRn37VlA&expires=1781272059
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/22_.m3u8?token=l_qvachm45aKwugy-_Xj6Q&expires=1781392421
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/tudn.webp",TUDN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/1_.m3u8?token=5uXqdMGABhDLlkNO_QLCng&expires=1781272063
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/1_.m3u8?token=YXUWERZtXCg4pq8vTMAr_A&expires=1781392425
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/tudnxtra.webp",TUDN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/1_.m3u8?token=nt5G5nKqjmp5SIKQqyOAzQ&expires=1781272059
-
-#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/skysportslaliga.webp",Sky Sports La Liga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/37_.m3u8?token=pCdkl8CFa4HqzfRH3VoiIA&expires=1781272063
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/1_.m3u8?token=Wq_6dadsdLV4SWaXfl8rxQ&expires=1781392420
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/tntsports.webp",TNT Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/4_.m3u8?token=eje__4QgUcStsMUGcrE6tw&expires=1781272072
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/4_.m3u8?token=-nzjUFrKtHJV4EEDGg81CQ&expires=1781392433
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/tntsports.webp",TNT Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/35_.m3u8?token=NcRHndcWiYITDLLn_RWlhA&expires=1781272072
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/35_.m3u8?token=CDw3IvQLVDIoMHr5Wf2f2A&expires=1781392434
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/foxsportspremium.webp",Fox Sports Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/12_.m3u8?token=1rhzrW_hNCY2dVS0SiJG0Q&expires=1781272071
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/12_.m3u8?token=e2s7coL3jahKoG7PhJCBAg&expires=1781392441
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/tycsports.webp",TyC Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/6_.m3u8?token=ASG5YMpb6iNZTpCXOqwj_g&expires=1781272073
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/6_.m3u8?token=qAngm18vjHkSEZG5505Pag&expires=1781392436
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/movistarlaliga.webp",Movistar La Liga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/32_.m3u8?token=zn0oT2jAgyh6x_I2jwv78A&expires=1781272072
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/32_.m3u8?token=637l0POk3SlZFXW6tM02SA&expires=1781392439
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/movistarligadecampeones.webp",Movistar Liga de Campeones
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/29_.m3u8?token=6fS0BVNBiNVtcL3K9HbKEA&expires=1781272073
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/29_.m3u8?token=akcLrjrGcHlIWrWEiSsdtA&expires=1781392442
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/daznf1.jpg",Dazn F1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/27_.m3u8?token=bCaQTw6qL8rhvgKwYDI3tA&expires=1781272082
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/27_.m3u8?token=DI2RemZ7zHLTtF7Iwk4CnA&expires=1781392442
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/daznlaliga1.webp",Dazn La Liga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/28_.m3u8?token=RtISLHByYGKDfnL5OWomVQ&expires=1781272082
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/28_.m3u8?token=bZb1zRKO_GmxMI6YnRQgHw&expires=1781392450
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/beinsportsxtra.webp",Bein Sports Xtra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/31_.m3u8?token=CzB5DZdhyxdv0TJbE0DaoQ&expires=1781272085
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/31_.m3u8?token=53NuTkBLErOtLe2hQVKhRA&expires=1781392449
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/directvsports.webp",DIRECTV Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/3_.m3u8?token=sqjPNLQLEySWTWLxCvo3Xg&expires=1781272083
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/3_.m3u8?token=3Cj8yOBeshmKfLuWkxG3MA&expires=1781392449
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/directvsports2.webp",DIRECTV Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/7_.m3u8?token=IKKppXKL36rry2O-hQTxrQ&expires=1781272083
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/7_.m3u8?token=eiTiYgOTf7SbEy_faR64Bw&expires=1781392459
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/directvsportsplus.webp",DIRECTV Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/11_.m3u8?token=EvOEV6dp-CY-EeqzhQ3LJw&expires=1781272082
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/11_.m3u8?token=sZERM2sYR9k0_fhrdgwBJg&expires=1781392459
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espnpremium.webp",ESPN Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/5_.m3u8?token=8vxln95e1d2SnXJDHRtDvg&expires=1781272089
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/5_.m3u8?token=ZksvMXYuezmB0UxgQ0K12Q&expires=1781392459
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn.webp",ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/13_.m3u8?token=8B6A8rsZlrnS96Uqbfa43Q&expires=1781272092
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/13_.m3u8?token=qskhhNUKOkaADI675ND8xg&expires=1781392463
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn2.webp",ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/14_.m3u8?token=2Cipt2IvR4zUmbZRNvixTw&expires=1781272094
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/14_.m3u8?token=t6ym864htdK8mRP02al5dg&expires=1781392463
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn3.webp",ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/15_.m3u8?token=nAjfmb4iRKrBdcXi9RnCNA&expires=1781272091
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/15_.m3u8?token=Yw7qSaAwSHvtKq4blcFmdg&expires=1781392464
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn4.webp",ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/23_.m3u8?token=NcnLOHeTZ_vbp08eM3kXpQ&expires=1781272095
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/23_.m3u8?token=m4rv-pY-nCPDuQ0xX1munQ&expires=1781392473
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn5.webp",ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/24_.m3u8?token=CFpgsFFDtcdIwKQvnaSn6w&expires=1781272092
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/24_.m3u8?token=zgcf8tvkbwwtkqUbSnlLpw&expires=1781392464
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn6.webp",ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/25_.m3u8?token=AlgOIU2uS6ChToBIUat71w&expires=1781272095
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/25_.m3u8?token=fKGxj8GXmuj-DUXC-w6qaw&expires=1781392474
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn7.webp",ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/26_.m3u8?token=M8PjgZoVV94endOvAf9JmQ&expires=1781272102
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/26_.m3u8?token=GF9BhUGE4wAb6lqMSR7SRA&expires=1781392474
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espnmexico.webp",ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/19_.m3u8?token=xQGMc9kDMpgB_xEXNBVLdw&expires=1781272103
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/19_.m3u8?token=nITL5VlfmzEnkaV6XttN1A&expires=1781392474
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn2mexico.webp",ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/20_.m3u8?token=XzimoQHd3zGGnSJTwp0V3A&expires=1781272103
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/20_.m3u8?token=JBDIydV-0qBwxvytdm-0YQ&expires=1781392482
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn3mexico.webp",ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/21_.m3u8?token=4ExkomxDWfZ-tcDRQI4k9Q&expires=1781272107
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/21_.m3u8?token=b7GKbOqyZBg0xHWpf330lQ&expires=1781392481
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn4mexico.webp",ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/33_.m3u8?token=LkILmbRvxcrznY4jl8c97A&expires=1781272103
-
-#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/espn5mexico.webp",ESPN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/38_.m3u8?token=lrw0mRn_K0ErHvn_K7JBNA&expires=1781272111
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/33_.m3u8?token=h7VKcw0uB6GEI9m9BTuEAw&expires=1781392482
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/foxsports.webp",Fox Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/8_.m3u8?token=Pi2QaIMPig33xBrZTm7uUw&expires=1781272104
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/8_.m3u8?token=0v6oYYO4YN0gi5RD9bXIrw&expires=1781392492
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/foxsports2.webp",Fox Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/9_.m3u8?token=0feCVn7Jr1E9lE8H8-076Q&expires=1781272111
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/9_.m3u8?token=2VtPOjfqPs6pbSWcbOG2xg&expires=1781392494
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/foxsports3.webp",Fox Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/10_.m3u8?token=NjkzTo9tLV5EyYjqSpd-3g&expires=1781272112
-
-#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/foxsportsmx.webp",Fox Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/8_.m3u8?token=dvNoLgi0H11eDKCs0Y5tew&expires=1781272119
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/10_.m3u8?token=EyLlTjx-QuX4QSb46lddlA&expires=1781392493
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/foxsports2mx.webp",Fox Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/9_.m3u8?token=0feCVn7Jr1E9lE8H8-076Q&expires=1781272111
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/9_.m3u8?token=KNTKglRrKh2uHKTufntT5Q&expires=1781392499
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/foxsports3mexico.webp",Fox Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/18_.m3u8?token=Xs23Oil1W4GTqYWoSPcazQ&expires=1781272119
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/18_.m3u8?token=uLu3DlZmBTnGSoMtC6TxqQ&expires=1781392499
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/winsportsplus.webp",Win sports Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/30_.m3u8?token=AbwchZgKLFm2XleCU10_Gg&expires=1781272120
+https://deportes.ksdjugfsddeports.com:9092/MTg5LjE5MC4yMTIuOTc=/30_.m3u8?token=Jj1FELoRjMc_UseM_CgqMg&expires=1781392505
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/telefe.webp",Telefe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/3_.m3u8?token=H9o9dev6kbQctBvGh9XiCw&expires=1781282925
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/3_.m3u8?token=gP8jg6hJCI5hjj6nPGiXug&expires=1781403300
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/eltrece.webp",El Trece
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/4_.m3u8?token=vieZQd_cEweRaypkHpN8JQ&expires=1781282922
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/4_.m3u8?token=0Q3eeQsofuKSuz7RW0ZjNQ&expires=1781403306
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/telemundo51.webp",Telemundo 51
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/6_.m3u8?token=MnptJzdMIeQXOVYcWGsZyQ&expires=1781282924
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/6_.m3u8?token=StRXKXYkrqZODXtgV0agPQ&expires=1781403307
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/telemundopuertorico.webp",Telemundo Puerto Rico
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/7_.m3u8?token=EZ45PCi2vj-xY0FJ71eV_g&expires=1781282925
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/7_.m3u8?token=271f36tHK0HYKfgCxK9enw&expires=1781403313
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/univision.webp",Univision
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/9_.m3u8?token=jtPFRHX2nK8Rt581EPoqag&expires=1781282926
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/9_.m3u8?token=Sx3AF9TBHPlcZmtX0lT47w&expires=1781403306
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/pasiones.webp",Pasiones
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/10_.m3u8?token=IiGG3SbNx7B6fPLujg9VEg&expires=1781282934
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/10_.m3u8?token=2lVtPyWIZVw6biCbSfrbPQ&expires=1781403314
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/tlnovelas.webp",Tlnovelas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/12_.m3u8?token=3ZhFATrhJ-hiZJnzR1g0cw&expires=1781282935
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/12_.m3u8?token=MdU4pIKE3Ogbjwm_Uo9YAQ&expires=1781403314
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/lasestrellas.webp",Las Estrellas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/13_.m3u8?token=PMSKgqXDco96mxtQWIYkGg&expires=1781282935
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/13_.m3u8?token=biXF8-3URhwF9yREwhoe2w&expires=1781403314
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/antena3.webp",Antena 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/14_.m3u8?token=qYh98c_27gzhK7pn5d2hHQ&expires=1781282935
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/14_.m3u8?token=fD9YQ-RCcPQuOfY_f5zDyQ&expires=1781403325
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/dw.webp",DW Español
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/15_.m3u8?token=dGdYUb84hzslq5_HDe1FlA&expires=1781282938
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/15_.m3u8?token=JCGK1xl9ChLuw3IqtZ7uuw&expires=1781403324
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/caracol.webp",Caracol
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/17_.m3u8?token=e5QSxPwMNuy_LtyC8YcbMg&expires=1781282935
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/17_.m3u8?token=uHsqUrK9JM_-fn4PtDgM1w&expires=1781403324
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/rcn.webp",RCN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/18_.m3u8?token=hqyzAu8ng7iXWlyLMNtYCg&expires=1781282940
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/18_.m3u8?token=-7NCtOwhlbSPMNtJ_Uk4ew&expires=1781403328
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/latina.webp",Latina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/19_.m3u8?token=QPky3MX6uj_ivnHxIv6xkA&expires=1781282939
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/19_.m3u8?token=pgckMW_tjSUC481UdJ_QdQ&expires=1781403337
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/americatv.webp",America TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/20_.m3u8?token=2dYB5HxJjnaWptOGd-M0bg&expires=1781282948
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/20_.m3u8?token=Z3PugneOl39Qi2j3Qzbjiw&expires=1781403329
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/atv.webp",ATV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/23_.m3u8?token=N1iBQUsk0EfrbDc8LcuMWg&expires=1781282949
-
-#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/unicable.webp",Unicable
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/24_.m3u8?token=a5INofsj8v1ROWIA8mL9bg&expires=1781282949
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/23_.m3u8?token=bhPuXqPdHyRFkVn380OYWA&expires=1781403329
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/imagentv.webp",Imagen TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/25_.m3u8?token=smpjRErTIoM0bF9Pxk7_uQ&expires=1781282951
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/25_.m3u8?token=lxpX9uKavlKdcqt6IIhHZQ&expires=1781403337
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/azteca7.webp",Azteca 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/1_.m3u8?token=BKSbLwoee1Vvea6aaP5Now&expires=1781282949
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/1_.m3u8?token=neXVWaZOgN7unmGABLFdXg&expires=1781403338
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/aztecauno.webp",Azteca Uno
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/26_.m3u8?token=9Ve6OF1U42yHAJncoKn6Eg&expires=1781282956
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/26_.m3u8?token=eI8h_J0FijKWAI3iZGPLVQ&expires=1781403338
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/canal5.webp",Canal 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/2_.m3u8?token=yxKkpGxgiKHMlmiCtXx1ew&expires=1781282952
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/2_.m3u8?token=FkdklzML1_C3PI295AYJwQ&expires=1781403346
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/tntnovelas.webp",TNT Novelas
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/5_.m3u8?token=KxnY3vCKJ6L0i0eTcygfyA&expires=1781282960
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/5_.m3u8?token=cqdKCwVMMa3Cs-KdOiF5mQ&expires=1781403347
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/disneychannel.webp",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/28_.m3u8?token=7SO318ugaB7MKAcQFFevew&expires=1781282962
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/28_.m3u8?token=cTigX0J8KsSWNU3-akg-Xg&expires=1781403348
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/cartoonnetwork.webp",Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/31_.m3u8?token=g2F6kRkHNO1o-uXFUdDYVQ&expires=1781282961
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/31_.m3u8?token=NBG5WwOoteJVNV5ZbD1Drw&expires=1781403358
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/tooncast.webp",Tooncast
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/32_.m3u8?token=4Rtgg0qZwcQthvVzS1d7Dw&expires=1781282964
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/32_.m3u8?token=NyceD7hPAE3CMjdQ-WAcUQ&expires=1781403347
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/discoverychannel.webp",Discovery Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/37_.m3u8?token=PiuMMFamLBrHwGBxuICZqw&expires=1781282964
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/37_.m3u8?token=MR1gCfoiwvmMmMHJvUBPlg&expires=1781403359
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/idinvestigation.webp",ID Investigation
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/41_.m3u8?token=2Zwvw0qkZA4m5NuwcM6sPA&expires=1781282964
-
-#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/discoveryhyh.webp",Discovery H&H
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/42_.m3u8?token=W2PPVjfxX01CD-t9hhjZpw&expires=1781282972
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/41_.m3u8?token=T31LnG5loFZzSADC684V1A&expires=1781403359
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/discoveryaye.webp",Discovery A&E
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/43_.m3u8?token=pzeYsOYACNq2YUWOIBc-2g&expires=1781282973
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/43_.m3u8?token=xdXCaciETpqh3BieT2ptZA&expires=1781403358
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/history.webp",History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/44_.m3u8?token=a0EzzrMIKTIRnDyjnplRVw&expires=1781282977
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/44_.m3u8?token=5JyP23Jq5D2NcgAZPXs2ZA&expires=1781403367
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/history2.webp",History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/45_.m3u8?token=Ys0gd-A6AzSVf9V3gguhYQ&expires=1781282977
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/45_.m3u8?token=RfLxau5ewYV_Nr38clGCbQ&expires=1781403366
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/animalplanet.webp",Animal Planet
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/46_.m3u8?token=g2fb-6-ONP7BRvErVlbMrA&expires=1781282973
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/46_.m3u8?token=Cgdh6cXv0ycwhVe7cnClBA&expires=1781403367
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/natgeo.webp",Nat Geo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/47_.m3u8?token=6eVxqq9cHgkcWxHoFv7cPg&expires=1781282978
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/47_.m3u8?token=ixENSBW1NJ8tq79UaUu-BA&expires=1781403372
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/universalchannel.webp",Universal Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/49_.m3u8?token=kw4u7cyCTuYVY8aLqmQZPQ&expires=1781282978
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/49_.m3u8?token=j6Mx3Y02sR8OKPl97A2m2Q&expires=1781403384
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/tnt.webp",TNT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/52_.m3u8?token=mwwsCxxFx1YQFWnEeQk4kA&expires=1781282978
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/52_.m3u8?token=DF77y5jWU3YaYRYTr_Ge6w&expires=1781403373
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/tntseries.webp",TNT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/53_.m3u8?token=_8gvhGDhPJgr0Ls2OtSadw&expires=1781282987
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/53_.m3u8?token=GCVcjGaGSgkbjXZD1G5GjQ&expires=1781403374
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/star.webp",Star Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/54_.m3u8?token=EWNZ8moGlGJ4pjnLIU6zZQ&expires=1781282987
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/54_.m3u8?token=JCRu4IV0lHtBHgKqL1XxVQ&expires=1781403374
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/cinemax.webp",Cinemax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/55_.m3u8?token=7-pHBlQvk27T_iW203fVBw&expires=1781282988
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/55_.m3u8?token=81gm_7gQSekuxJnn_d83WQ&expires=1781403384
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/space.webp",Space
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/56_.m3u8?token=24ErnGTkA9Akw0t1Ugvwww&expires=1781282988
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/56_.m3u8?token=7Hrav5nrWAwTQUhvmQMBag&expires=1781403385
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/warnerbrostv.webp",Warner Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/58_.m3u8?token=PDVPaxANySdob-AA9fmjiw&expires=1781282988
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/58_.m3u8?token=ZrwBg_N_blRQz_MNXVxfCw&expires=1781403385
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/cinecanal.webp",Cinecanal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/59_.m3u8?token=LE_Yhjpl29JD_bAMAk_Uxw&expires=1781282989
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/59_.m3u8?token=cVijprzc9JCPamaGTLKKrQ&expires=1781403385
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/fx.webp",FX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/60_.m3u8?token=cJrpKn0ptm9EpG4Ntz2b8g&expires=1781282998
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/60_.m3u8?token=LX-aJcJzBfc0M-NWdCrIuQ&expires=1781403385
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/axn.webp",AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/61_.m3u8?token=QCJvLKzGK21F3yn3m4dRGw&expires=1781282998
-
-#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/amc.webp",AMC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/63_.m3u8?token=8p4tHAPc6uvZa1HilJAezg&expires=1781282999
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/61_.m3u8?token=VXh1MOdVab4goKbU_Y6hng&expires=1781403397
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/studiouniversal.webp",Studio Universal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/64_.m3u8?token=2-ShT8HClwT-VAfdRHtWXQ&expires=1781282999
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/64_.m3u8?token=rMnnMTNLSwBCjVm9vRaA8A&expires=1781403405
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/panico.webp",Panico HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/65_.m3u8?token=_3iRRJ-J1_VFSxWD5bxlcA&expires=1781283001
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/65_.m3u8?token=3WwciM8rgHBrDbSUf829hA&expires=1781403399
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/multipremier.webp",Multipremier
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/66_.m3u8?token=Mg_uSrJ-VBOL0T_0d5ksDw&expires=1781283002
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/66_.m3u8?token=MrIAYgE6IQ3uwjfNpzeiHA&expires=1781403398
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/golden.webp",Golden
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/67_.m3u8?token=1oM33Q8koV3rMwE2unoiNA&expires=1781283002
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/67_.m3u8?token=7LEDCcXjLpKh6drJ1JuaFg&expires=1781403398
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/goldenplus.webp",Golden
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/68_.m3u8?token=yll09UUyF8thUBLcxs7ejg&expires=1781283012
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/68_.m3u8?token=7vabdxE9UOKcgsYmbMTWdg&expires=1781403405
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/goldenedge.webp",Golden
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/69_.m3u8?token=ZcloIKK6TT3v8z01lczGjg&expires=1781283011
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/69_.m3u8?token=0ao2r0GMWIikxn1nzUFEIw&expires=1781403405
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/goldenpremier.webp",Golden
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/70_.m3u8?token=v8vwYJ6QTijvlbTgBR7nZA&expires=1781283012
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/70_.m3u8?token=KgfeAUa84TbL8wR_0oIeDA&expires=1781403409
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/canalsony.webp",Canal Sony
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/72_.m3u8?token=2XO18ryvfUiYK0Y9U_apDQ&expires=1781283013
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/72_.m3u8?token=TO25V0U4nchVdgPVYYopeA&expires=1781403413
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/fmhotmovies.webp",FM Hot Movies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/34_.m3u8?token=ueNaXFGPWnfk5StngO1mXw&expires=1781283012
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/34_.m3u8?token=UziUv8v1d02W1FH9Z6etkg&expires=1781403412
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/fmhotkids.webp",FM Hot Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/78_.m3u8?token=LDcyLnfjbpnq4SOx5lQz4Q&expires=1781283013
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/78_.m3u8?token=dZQiQoJJZtn9MzwL04wedg&expires=1781403412
 
 #EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/extrematv.webp",Extrema TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/73_.m3u8?token=T2ufjoBXPX4NIQBo_QyCqg&expires=1781283019
-
-#EXTINF:-1 tvg-logo="https://www.tvporinternet2.com/imge/distritocomedia.webp",Distrito comedia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.tvporinternet2.com/
-https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/75_.m3u8?token=NidG9P-swDz79fwgkqHHgA&expires=1781283015
+https://regionales.saohgdasregions.fun:9092/MTg5LjE5MC4yMTIuOTc=/73_.m3u8?token=7MT-a28OD1b_ZO1yh3fdnA&expires=1781403415
 
